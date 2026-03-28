@@ -75,7 +75,7 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rousanraahat/apex-lead-gen.git
+git clone https://github.com/Fronter-xd/apex-lead-gen.git
 cd apex-lead-gen
 ```
 
