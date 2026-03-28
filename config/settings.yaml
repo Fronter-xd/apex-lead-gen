@@ -1,0 +1,19 @@
+monitoring:
+  keywords:
+    - "ADHD tax"
+    - "productivity help"
+    - "routine manager"
+  platforms:
+    - reddit
+    - twitter
+  interval_minutes: 15
+
+scoring:
+  engagement_threshold: 5
+  relevance_weight: 0.7
+  recent_weight: 0.3
+
+outreach:
+  auto_draft: true
+  draft_style: "professional but friendly"
+  max_draft_length: 280
